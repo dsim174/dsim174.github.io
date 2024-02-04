@@ -22,18 +22,18 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: dongseok im
+linkedin_username: dongseok-im-b05007216/
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: dongseok im
+youtube_username: lds1235566
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
