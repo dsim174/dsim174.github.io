@@ -49,7 +49,7 @@ youtube_username: lds1235566
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Post-doctoral Researcher (2023~) at KAIST Information & Electronics Research Institute, South Korea.
-  My research interests are energy-efficient <mark>2D/3D vision system-on-chip<mark> designs, 
+  My research interests are energy-efficient <mark>2D/3D<\mark> vision system-on-chip designs, 
   digital circuit-, architecture-, SW-level AI accelerator designs,
   and custom silicon chip and <mark>demonstration system board designs.
   
