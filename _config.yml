@@ -27,7 +27,7 @@ linkedin_username: dongseok-im-b05007216
 # pinterest_username: jekyll
 youtube_username: lds1235566
 # googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0002-5856-8921
 
 # Additional icon links
 # additional_links:
@@ -49,7 +49,7 @@ youtube_username: lds1235566
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Post-doctoral Researcher (2023~) at KAIST Information & Electronics Research Institute, South Korea.
-  My research interests are energy-efficient <mark>2D and 3D vision system-on-chip<\mark> designs, 
+  My research interests are energy-efficient 2D and 3D vision system-on-chip designs, 
   digital circuit-, architecture-, SW-level <mark>AI accelerator<\mark> designs,
   and <mark>custom silicon chip</mark> and <mark>demonstration system board</mark> designs.
   
