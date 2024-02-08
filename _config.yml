@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Post-doctoral Researcher (2023~) at KAIST Information & Electronics Research Institute, South Korea.
   My research interests are energy-efficient <mark>2D/3D vision system-on-chip</mark> designs, 
-  digital circuit-, architecture-, SW-level <mark>AI accelerator</mark> designs,
+  <mark>digital circuit-, architecture-, SW-level AI accelerator</mark> designs,
   and <mark>custom silicon chip</mark> and <mark>demonstration system board</mark> designs.
   
 
