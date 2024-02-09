@@ -114,8 +114,18 @@ content:
        
           *<ins>Dongseok Im</ins>, Gwangtae Park, Junha Ryu, Zhiyong Li, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
 
-          [Paper Link](A Low-power and Real-time 3D Object Recognition Processor with Dense RGB-D Data Acquisition in Mobile Platforms)
+          [Paper Link](https://ieeexplore.ieee.org/document/9772667)
 
+      - layout: left
+        title: ISSCC 2022
+        sub_title: IEEE International Conference on Solid-State Circuits
+        caption: February 2022
+        description: | # this will include new lines to allow paragraphs
+          **DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-Based Dense RGB-D Data Acquisition with Depth Fusion and 3D Bounding Box Extraction in Mobile Platforms**
+       
+          *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, Sanghoon Kang, Donghyeon Han, Jinsu Lee, and Hoi-Jun Yoo*
+
+          [Paper Link](https://ieeexplore.ieee.org/document/9731699), [Demo Video](https://youtu.be/QC3Jmih_X1c?si=1CAydp_tFFkxeeaF)
 
 
 
