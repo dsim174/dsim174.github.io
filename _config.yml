@@ -108,7 +108,7 @@ content:
       - layout: left
         title: COOLCHIPS 2022
         sub_title: IEEE Symposium on Low-Power and High-Speed Chips and Systems
-        caption: August 2022
+        caption: April 2022
         description: | # this will include new lines to allow paragraphs
           **A Low-power and Real-time 3D Object Recognition Processor with Dense RGB-D Data Acquisition in Mobile Platforms**
        
