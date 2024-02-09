@@ -169,6 +169,18 @@ content:
           [Paper Link](https://ieeexplore.ieee.org/document/9731699), [Demo Video](https://youtu.be/QC3Jmih_X1c?si=1CAydp_tFFkxeeaF)
 
       - layout: left
+        title: JSSC Journal
+        sub_title: IEEE Journal of Solid-State Circuits
+        caption: February  2022
+        description: | # this will include new lines to allow paragraphs
+          **A Pipelined Point Cloud Based Neural Network Processor for 3-D Vision With Large-Scale Max Pooling Layer Prediction**
+       
+          *<ins>Dongseok Im</ins>, Sanghoon Kang, Donghyeon Han, Sungpil Choi, and Hoi-Jun Yoo*
+
+          [Paper Link](https://ieeexplore.ieee.org/document/9466156)
+
+
+      - layout: left
         title: S.VLSI 2020
         sub_title: IEEE Symposium on VLSI Technology and Circuits
         caption: June 2020
