@@ -53,8 +53,13 @@ about_content: | # this will include new lines to allow paragraphs
   (2) <mark>digital circuit-, architecture-, and SW-level AI accelerator</mark> designs,
   and (3) <mark>custom silicon chip</mark> and <mark>demonstration system board</mark> designs.
 
-  I received Ph.D. and M.S. degrees from the school of electrical engineering of Korea Advanced Institute of Science and Technology (KAIST), and my advisor is Hoi-Jun Yoo.
-  
+  My Educations:
+  - Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), (Advisor: Hoi-Jun Yoo)
+  - M.S. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), (Advisor: Hoi-Jun Yoo)
+  - B.S. in Electrical Engineering, Pohang University of Science and Technology (POSTECH)
+
+
+
 content:
   - title: Publications
     layout: text
