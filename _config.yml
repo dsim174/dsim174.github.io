@@ -79,7 +79,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
        
-          *Dongseok Im and Hoi-Jun Yoo*
+          *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
 
           Paper Link
           
