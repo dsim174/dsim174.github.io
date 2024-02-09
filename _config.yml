@@ -63,10 +63,7 @@ content:
       - HPCA
       - ISSCC
       - VLSI
-      #- [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      # Look at this cool image  
-      # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 
   - title: Projects # Title for the section
@@ -128,7 +125,17 @@ content:
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
 
+  - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Conference:
+      - HPCA
+      - ISSCC
+      - VLSI
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
