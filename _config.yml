@@ -69,7 +69,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
-  - title: Publications # Title for the section
+  - title: First Authored Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -81,19 +81,29 @@ content:
        
           *Dongseok Im and Hoi-Jun Yoo*
 
-          Paper
-
+          Paper Link
+          
       - layout: left
         title: HPCA 2023
         sub_title: IEEE International Symposium on High-Performance Computer Architecture
         caption: March 2023
         description: | # this will include new lines to allow paragraphs
-          Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation
+          **Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation**
        
           *Dongseok Im, Gwangtae Park, Zhiyong Li, Junha Ryu, and Hoi-Jun Yoo*
 
-          [Paper](https://ieeexplore.ieee.org/document/10071031)
+          [Paper Link](https://ieeexplore.ieee.org/document/10071031)
 
+      - layout: left
+        title: HOTCHIPS 2022
+        sub_title: IEEE Hot Chips Symposium
+        caption: August 2022
+        description: | # this will include new lines to allow paragraphs
+          **DSPU: A 281.6mW Real-Time Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3D Perception System-on-Chip**
+       
+          *Dongseok Im, Gwangtae Park, Zhiyong Li, Junha Ryu, and Hoi-Jun Yoo*
+
+          [PPT Link](https://ieeexplore.ieee.org/document/9895605)
 
 
 
