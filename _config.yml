@@ -46,7 +46,7 @@ orcid_username: 0000-0002-5856-8921
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: image_teset.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Post-doctoral Researcher (2023~) at KAIST Information & Electronics Research Institute, South Korea.
   My research interests are (1) energy-efficient **2D/3D vision system-on-chip** designs, 
