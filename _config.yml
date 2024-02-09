@@ -77,7 +77,7 @@ content:
         sub_title: IEEE International Symposium on High-Performance Computer Architecture
         caption: March 2024
         description: | # this will include new lines to allow paragraphs
-          **LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
+          **(New) LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
        
           *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
 
@@ -90,7 +90,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation**
        
-          *Dongseok Im, Gwangtae Park, Zhiyong Li, Junha Ryu, and Hoi-Jun Yoo*
+          *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, and Hoi-Jun Yoo*
 
           [Paper Link](https://ieeexplore.ieee.org/document/10071031)
 
@@ -101,10 +101,20 @@ content:
         description: | # this will include new lines to allow paragraphs
           **DSPU: A 281.6mW Real-Time Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3D Perception System-on-Chip**
        
-          *Dongseok Im, Gwangtae Park, Zhiyong Li, Junha Ryu, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
+          *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
 
           [PPT Link](https://ieeexplore.ieee.org/document/9895605)
 
+      - layout: left
+        title: COOLCHIPS 2022
+        sub_title: IEEE Symposium on Low-Power and High-Speed Chips and Systems
+        caption: August 2022
+        description: | # this will include new lines to allow paragraphs
+          **A Low-power and Real-time 3D Object Recognition Processor with Dense RGB-D Data Acquisition in Mobile Platforms**
+       
+          *<ins>Dongseok Im</ins>, Gwangtae Park, Junha Ryu, Zhiyong Li, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
+
+          [Paper Link](A Low-power and Real-time 3D Object Recognition Processor with Dense RGB-D Data Acquisition in Mobile Platforms)
 
 
 
