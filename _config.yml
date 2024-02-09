@@ -77,9 +77,25 @@ content:
         sub_title: IEEE International Symposium on High-Performance Computer Architecture
         caption: March 2024
         description: | # this will include new lines to allow paragraphs
-            LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units
-        quote: >
-          Dongseok Im and Hoi-Jun Yoo
+          LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units
+       
+          *Dongseok Im and Hoi-Jun Yoo*
+
+
+      - layout: left
+        title: HPCA 2023
+        sub_title: IEEE International Symposium on High-Performance Computer Architecture
+        caption: March 2023
+        description: | # this will include new lines to allow paragraphs
+          Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation
+       
+          *Dongseok Im, Gwangtae Park, Zhiyong Li, Junha Ryu, and Hoi-Jun Yoo*
+
+
+
+
+
+
 
 
 
