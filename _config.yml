@@ -180,7 +180,7 @@ content:
           [Paper Link](https://ieeexplore.ieee.org/document/9466156)
           
       - layout: left
-        title: TCAS-1 Journal
+        title: TCAS1 Journal
         sub_title: IEEE Transactions on Circuits and Systems I: Regular Papers
         caption: October 2020
         description: | # this will include new lines to allow paragraphs
