@@ -81,7 +81,7 @@ content:
           [Paper Link](https://ieeexplore.ieee.org/document/10071031)
 
       - layout: left
-        title: HOTCHIPS 2022
+        title: HOT CHIPS 2022
         sub_title: IEEE Hot Chips Symposium
         caption: August 2022
         description: | # this will include new lines to allow paragraphs
@@ -92,7 +92,7 @@ content:
           [PPT Link](https://ieeexplore.ieee.org/document/9895605)
 
       - layout: left
-        title: COOLCHIPS 2022
+        title: COOL CHIPS 2022
         sub_title: IEEE Symposium on Low-Power and High-Speed Chips and Systems
         caption: April 2022
         description: | # this will include new lines to allow paragraphs
