@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   (2) <mark>digital circuit-, architecture-, and SW-level AI accelerator</mark> designs,
   and (3) <mark>custom silicon chip</mark> and <mark>demonstration system board</mark> designs.
   
-
+content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
