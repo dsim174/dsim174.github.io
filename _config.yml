@@ -181,7 +181,7 @@ content:
           
       - layout: left
         title: TCAS-1 Journal
-        sub_title: IEEE Transactions on Circuits and Systems I Regular Papers
+        sub_title: "IEEE Transactions on Circuits and Systems I: Regular Papers"
         caption: October 2020
         description: | # this will include new lines to allow paragraphs
           **DT-CNN: An energy-efficient dilated and transposed convolutional neural network processor for region of interest based image segmentation**
