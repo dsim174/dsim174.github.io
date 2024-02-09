@@ -52,6 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
   My research interests are (1) energy-efficient <mark>2D/3D vision system-on-chip</mark> designs, 
   (2) <mark>digital circuit-, architecture-, and SW-level AI accelerator</mark> designs,
   and (3) <mark>custom silicon chip</mark> and <mark>demonstration system board</mark> designs.
+
+  I received Ph.D. and M.S. degrees from the school of electrical engineering of Korea Advanced Institute of Science and Technology (KAIST), and my advisor is Hoi-Jun Yoo.
   
 content:
   - title: Publications
