@@ -103,8 +103,8 @@ content:
           *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
 
       - layout: left
-        title: IEEE Micro
-        sub_title: IEEE Micro Journal
+        title: Micro Journal
+        sub_title: IEEE Micro
         caption: May-June 2023
         description: | # this will include new lines to allow paragraphs
           **A Mobile 3-D Object Recognition Processor With Deep-Learning-Based Monocular Depth Estimation**
@@ -125,7 +125,7 @@ content:
           [Paper Link](https://ieeexplore.ieee.org/document/10071031)
 
       - layout: left
-        title: IEEE JSSC Journal
+        title: JSSC Journal
         sub_title: IEEE Journal of Solid-State Circuits
         caption: January 2023
         description: | # this will include new lines to allow paragraphs
