@@ -90,7 +90,7 @@ content:
         *Mar. 2014 - Feb. 2018*
 
 
-  - title: Publications # Title for the section
+  - title: First Authored Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -102,24 +102,6 @@ content:
        
           *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
 
-      - layout: left
-        title: ISSCC 2024
-        sub_title: IEEE International Conference on Solid-State Circuits
-        caption: February 2024
-        description: | # this will include new lines to allow paragraphs
-          **Space-Mate: A 303.5mW Real-Time Sparse Mixture-of-Experts-Based NeRF-SLAM Processor for Mobile Spatial Computing**
-       
-          *Gwangtae Park, Seochan Song, Haoyang Sang, <ins>Dongseok Im</ins>, Donghyeon Han, Sangyeob Kim, and Hoi-Jun Yoo*
-
-      - layout: left
-        title: ISSCC 2024
-        sub_title: IEEE International Conference on Solid-State Circuits
-        caption: February 2024
-        description: | # this will include new lines to allow paragraphs
-          **NeuGPU: A 18.5 mJ/iter Neural-Graphics Processing Unit for Instant-Modeling and Real-Time-Rendering with Segmented-Hashing Architecture**
-       
-          *Junha Ryu, Hankyul Kwon, Wonhoon Park, Zhiyong Li, Beomseok Kwon, Donghyeon Han, <ins>Dongseok Im</ins>, Sangyeob Kim, and Hoi-Jun Yoo*
-  
       - layout: left
         title: HPCA 2023
         sub_title: IEEE International Symposium on High-Performance Computer Architecture
