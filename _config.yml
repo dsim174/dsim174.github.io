@@ -64,6 +64,19 @@ content:
       - ISSCC
       - VLSI
 
+    content:
+      - layout: top-middle
+        title: Education
+        quote: >
+          Feb. 2020 - Aug. 2023
+        
+        description: | # this will include new lines to allow paragraphs
+        - Ph.D. in Electrical Engineering, Korea Advanced Institute of Science & Technology (KAIST)
+
+
+
+
+        
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
