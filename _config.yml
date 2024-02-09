@@ -54,8 +54,6 @@ about_content: | # this will include new lines to allow paragraphs
   and (3) <mark>custom silicon chip</mark> and <mark>demonstration system board</mark> designs.
   
 
-content:
-
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -64,15 +62,14 @@ content:
       - ISSCC
       - VLSI
 
+  - title: Educations
+    layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Education
+        title: Ph.D. in Electrical Engineering, Korea Advanced Institute of Science & Technology (KAIST)
         quote: >
           Feb. 2020 - Aug. 2023
         
-        description: | # this will include new lines to allow paragraphs
-        - Ph.D. in Electrical Engineering, Korea Advanced Institute of Science & Technology (KAIST)
-
 
 
 
