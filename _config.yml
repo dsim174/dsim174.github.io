@@ -49,9 +49,9 @@ orcid_username: 0000-0002-5856-8921
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Post-doctoral Researcher (2023~) at KAIST Information & Electronics Research Institute, South Korea.
-  My research interests are (1) energy-efficient <mark>2D/3D vision system-on-chip</mark> designs, 
-  (2) <mark>digital circuit-, architecture-, and SW-level AI accelerator</mark> designs,
-  and (3) <mark>custom silicon chip</mark> and <mark>demonstration system board</mark> designs.
+  My research interests are (1) energy-efficient **2D/3D vision system-on-chip** designs, 
+  (2) **digital circuit-, architecture-, and SW-level AI accelerator** designs,
+  and (3) *custom silicon chip and demonstration system board** designs.
 
   My Educations:
   - Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
