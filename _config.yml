@@ -94,7 +94,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: <font color='#FF0000'>HPCA 2024</font>
+        title: HPCA 2024
         sub_title: IEEE International Symposium on High-Performance Computer Architecture
         caption: March 2024
         description: | # this will include new lines to allow paragraphs
@@ -104,8 +104,8 @@ content:
 
       - layout: left
         title: IEEE Micro
-        sub_title: IEEE Micro
-        caption: March 2023
+        sub_title: IEEE Micro Journal
+        caption: May-June 2023
         description: | # this will include new lines to allow paragraphs
           **A Mobile 3-D Object Recognition Processor With Deep-Learning-Based Monocular Depth Estimation**
        
@@ -123,6 +123,17 @@ content:
           *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, and Hoi-Jun Yoo*
 
           [Paper Link](https://ieeexplore.ieee.org/document/10071031)
+
+      - layout: left
+        title: IEEE JSSC Journal
+        sub_title: IEEE Journal of Solid-State Circuits
+        caption: January 2023
+        description: | # this will include new lines to allow paragraphs
+          **DSPU: An Efficient Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3-D Perception SoC**
+       
+          *<ins>Dongseok Im</ins>, Gwangtae Park, Junha Ryu, Zhiyong Li, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
+
+          [Paper Link](https://ieeexplore.ieee.org/document/9943545)
 
       - layout: left
         title: HOT CHIPS 2022
