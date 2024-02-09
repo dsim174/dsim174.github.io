@@ -141,7 +141,7 @@ content:
       - layout: left
         title: ISCAS 2019
         sub_title: IEEE International Symposium on Circuits and Systems
-        caption: February 2022
+        caption: May 2019
         description: | # this will include new lines to allow paragraphs
           **DT-CNN: Dilated and transposed convolution neural network accelerator for real-time image segmentation on mobile devices**
        
