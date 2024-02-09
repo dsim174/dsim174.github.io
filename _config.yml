@@ -138,17 +138,21 @@ content:
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+      - **Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
         
-        Mar. 2020 - Aug. 2023 # Advisor: Hoi-Jun Yoo 
+        *Mar. 2020 - Aug. 2023* 
+        
+        (Advisor: Hoi-Jun Yoo) 
       
-      - M.S. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+      - **M.S. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
         
-        Feb. 2018 - Feb. 2020 # Advisor: Hoi-Jun Yoo
+        *Feb. 2018 - Feb. 2020* 
         
-      - B.S. in Electrical Engineering, Pohang University of Science and Technology (POSTECH)
+        (Advisor: Hoi-Jun Yoo)
         
-        Mar. 2014 - Feb. 2018
+      - **B.S. in Electrical Engineering, Pohang University of Science and Technology (POSTECH)**
+        
+        *Mar. 2014 - Feb. 2018*
 
 
 
