@@ -127,7 +127,27 @@ content:
 
           [Paper Link](https://ieeexplore.ieee.org/document/9731699), [Demo Video](https://youtu.be/QC3Jmih_X1c?si=1CAydp_tFFkxeeaF)
 
+      - layout: left
+        title: S.VLSI 2020
+        sub_title: IEEE Symposium on VLSI Technology and Circuits
+        caption: June 2020
+        description: | # this will include new lines to allow paragraphs
+          **A 4.45 ms Low-latency 3D Point-cloud-based Neural Network Processor for Hand Pose Estimation in Immersive Wearable Devices**
+       
+          *<ins>Dongseok Im</ins>, Sanghoon Kang, Donghyeon Han, Sungpil Choi, and Hoi-Jun Yoo*
 
+          [Paper Link](https://ieeexplore.ieee.org/document/9162895)
+
+      - layout: left
+        title: ISCAS 2019
+        sub_title: IEEE International Symposium on Circuits and Systems
+        caption: February 2022
+        description: | # this will include new lines to allow paragraphs
+          **DT-CNN: Dilated and transposed convolution neural network accelerator for real-time image segmentation on mobile devices**
+       
+          *<ins>Dongseok Im</ins>, Donghyeon Han, Sungpil Choi, Sanghoon Kang, and Hoi-Jun Yoo*
+
+          [Paper Link](https://ieeexplore.ieee.org/document/8702243)
 
 
 
