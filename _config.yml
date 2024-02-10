@@ -31,7 +31,7 @@ orcid_username: 0000-0002-5856-8921
 
 additional_links:
  - title: itsgoingto.be
-  icon: google
+  icon: fas fa-globe
   url: https://scholar.google.com/citations?user=7qThsfUAAAAJ&hl=en
 
 # Additional icon links
