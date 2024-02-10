@@ -29,6 +29,11 @@ youtube_username: lds1235566
 # googleplus_username: +jekyll
 orcid_username: 0000-0002-5856-8921
 
+additional_links:
+ - title: itsgoingto.be
+  icon: fas fa-google
+  url: https://scholar.google.com/citations?user=7qThsfUAAAAJ&hl=en
+
 # Additional icon links
 # additional_links:
 # - title: itsgoingto.be
