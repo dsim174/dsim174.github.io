@@ -75,7 +75,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "1. LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units"  [Paper Download](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
+        title: "1. LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units, [Paper Download](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)"
         description: | # this will include new lines to allow paragraphs          
          
           
