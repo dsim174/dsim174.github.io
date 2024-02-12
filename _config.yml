@@ -74,16 +74,20 @@ content:
   - title: Materials of HPCA 2024 Conference (March 2024) # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: top-left
         title: "LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units" 
         description: | # this will include new lines to allow paragraphs          
-          [Paper](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
+          [Paper Download](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
           
-      - layout: top-middle
+      - layout: top-left
         title: "Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation"
         description: | # this will include new lines to allow paragraphs
-          [Paper](Sibia_Signed_Bit-slice_Architecture_for_Dense_DNN_Acceleration_with_Slice-level_Sparsity_Exploitation.pdf)
+          [Paper Download](Sibia_Signed_Bit-slice_Architecture_for_Dense_DNN_Acceleration_with_Slice-level_Sparsity_Exploitation.pdf)
 
+      - layout: top-left
+        title: "HNPU: An Adaptive DNN Training Processor Utilizing Stochastic Dynamic Fixed-Point and Active Bit-Precision Searching"
+        description: | # this will include new lines to allow paragraphs
+          [Paper Download](HNPU_An_Adaptive_DNN_Training_Processor_Utilizing_Stochastic_Dynamic_Fixed-Point_and_Active_Bit-Precision_Searching.pdf)
           
   ## Contents for HPCA 2024
 
