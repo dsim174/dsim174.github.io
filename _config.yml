@@ -78,10 +78,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           [Paper](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
           
-      - layout: top-middle
-        title: : Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation        
-        description: | # this will include new lines to allow paragraphs
-          [Paper](Sibia_Signed_Bit-slice_Architecture_for_Dense_DNN_Acceleration_with_Slice-level_Sparsity_Exploitation.pdf)
+      #- layout: top-middle
+      #  title: : Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation        
+      #  description: | # this will include new lines to allow paragraphs
+      #    [Paper](Sibia_Signed_Bit-slice_Architecture_for_Dense_DNN_Acceleration_with_Slice-level_Sparsity_Exploitation.pdf)
 
           
   ## Contents for HPCA 2024
