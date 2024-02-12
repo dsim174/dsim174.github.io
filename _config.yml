@@ -73,7 +73,7 @@ content:
   - title: Materials of HPCA 2024 Conference (March 2024) # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: top-middle
         title: LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units        
         description: | # this will include new lines to allow paragraphs
           [Paper](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
