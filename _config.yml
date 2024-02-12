@@ -74,11 +74,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        # border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: LUTein        
+        title: LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units        
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          [Paper](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
+
+        title: : Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation        
+        description: | # this will include new lines to allow paragraphs
+          [Paper](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
+
+          
   ## Contents for HPCA 2024
 
 
@@ -121,7 +127,7 @@ content:
        
           *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
 
-          [Paper](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
+          To be published
 
       - layout: left
         title: Micro Journal
