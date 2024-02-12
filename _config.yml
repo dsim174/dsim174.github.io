@@ -75,8 +75,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "1. LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units, [Paper Download](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)"
+        title: "1. LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units"
         description: | # this will include new lines to allow paragraphs          
+        [**Paper Download**](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
          
           
       - layout: top
@@ -197,7 +198,7 @@ content:
        
           *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, Sanghoon Kang, Donghyeon Han, Jinsu Lee, and Hoi-Jun Yoo*
 
-          [Paper Link](https://ieeexplore.ieee.org/document/9731699), [Demo Video](https://youtu.be/QC3Jmih_X1c?si=1CAydp_tFFkxeeaF)
+          [Paper Link](https://ieeexplore.ieee.org/document/9731699), [Demo Video](https://youtu.be/QC3Jmih_X1c?si=1CAydp_tFFkxeeaF), [News](https://ee.kaist.ac.kr/ai-in-circuit/dspu-a-281-6mw-real-time-depth-signal-processing-unit-for-deep-learning-based-dense-rgb-d-data-acquisition-with-depth-fusion-and-3d-bounding-box-extraction-in-mobile-platforms-%EC%9C%A0%ED%9A%8C/)
 
       - layout: left
         title: JSSC Journal
