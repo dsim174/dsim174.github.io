@@ -79,7 +79,7 @@ content:
         description: | # this will include new lines to allow paragraphs   
           **- LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**          
           
-          [Paper](papers/LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf){:.button.button--primary.button--pill}
+          [Paper](papers/LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf){:.button.button--primary.button--rounded}
 
           **- Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation**
 
