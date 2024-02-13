@@ -77,22 +77,22 @@ content:
       - layout: top
         title: "(Updated: Feb 2024) Materials of Google Talk and HPCA 2024"
         description: | # this will include new lines to allow paragraphs   
-          **- LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**          
+          *** LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**          
           
-          [Paper](papers/LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf){:.button.button--primary.button--rounded}
+          [Paper Download](papers/LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
 
           *** Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation**
 
           [Paper Download](papers/Sibia_Signed_Bit-slice_Architecture_for_Dense_DNN_Acceleration_with_Slice-level_Sparsity_Exploitation.pdf)
 
-          **- HNPU: An Adaptive DNN Training Processor Utilizing Stochastic Dynamic Fixed-Point and Active Bit-Precision Searching**
+          *** HNPU: An Adaptive DNN Training Processor Utilizing Stochastic Dynamic Fixed-Point and Active Bit-Precision Searching**
           
           [Paper Download](papers/HNPU_An_Adaptive_DNN_Training_Processor_Utilizing_Stochastic_Dynamic_Fixed-Point_and_Active_Bit-Precision_Searching.pdf)
         
       - layout: top
         title: "(Updated: Feb 2024) Open to Work"
         description: | # this will include new lines to allow paragraphs   
-          **- I am open to work (Date Available for Work: Mar. 2025)**
+          *** I am open to work (Date Available for Work: Mar. 2025)**
           
           [CV](dongseok_cv.pdf)
           
