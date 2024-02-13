@@ -126,6 +126,15 @@ content:
         *Mar. 2014 - Feb. 2018*
 
 
+  - title: Awards & Scholarships
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **ISOCC Chip Design Contest Dest Poster Award**, *2022*
+      - **Microsoft Research Asia Fellowship Nomination Award**, *2022*
+      - **IEEE Solid-State Circuits Society ISSCC Student Travel Grant Award**, *2022*
+      - **28th Samsung HumanTech Paper Award (Circuit Design) Bronze Prize**, *2022*
+      
+
   - title: First Authored Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -252,13 +261,6 @@ content:
 
 
 
-  - title: Awards & Scholarships
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - **ISOCC Chip Design Contest Dest Poster Award**, *2022*
-      - **Microsoft Research Asia Fellowship Nomination Award**, *2022*
-      - **IEEE Solid-State Circuits Society ISSCC Student Travel Grant Award**, *2022*
-      - **28th Samsung HumanTech Paper Award (Circuit Design) Bronze Prize**, *2022*
       
 # Footer
 footer_show_references: true
