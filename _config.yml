@@ -77,7 +77,8 @@ content:
       - layout: top
         title: "Materials of Google Talk and HPCA 2024 (Updated: Feb 2024)"
         description: | # this will include new lines to allow paragraphs   
-          1. LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units
+          "1. LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units"
+          
           [Paper Download](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
                    
       - layout: top
