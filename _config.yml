@@ -79,22 +79,22 @@ content:
         description: | # this will include new lines to allow paragraphs   
           **1) LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**          
           
-          [Paper Download](LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
+          [Paper Download](papers/LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
 
           **2) Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation**
 
-          [Paper Download](Sibia_Signed_Bit-slice_Architecture_for_Dense_DNN_Acceleration_with_Slice-level_Sparsity_Exploitation.pdf)
+          [Paper Download](papers/Sibia_Signed_Bit-slice_Architecture_for_Dense_DNN_Acceleration_with_Slice-level_Sparsity_Exploitation.pdf)
 
           **3) HNPU: An Adaptive DNN Training Processor Utilizing Stochastic Dynamic Fixed-Point and Active Bit-Precision Searching**
           
-          [Paper Download](HNPU_An_Adaptive_DNN_Training_Processor_Utilizing_Stochastic_Dynamic_Fixed-Point_and_Active_Bit-Precision_Searching.pdf)
+          [Paper Download](papers/HNPU_An_Adaptive_DNN_Training_Processor_Utilizing_Stochastic_Dynamic_Fixed-Point_and_Active_Bit-Precision_Searching.pdf)
         
       - layout: top
         title: "(Updated: Feb 2024) Open to Work"
         description: | # this will include new lines to allow paragraphs   
           **I am open to work (Date Available for Work: Mar. 2025)**
           
-
+          [CV](dongseok_cv.pdf)
           
   ## Contents for HPCA 2024
 
