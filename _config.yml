@@ -99,40 +99,6 @@ content:
   ## Contents for HPCA 2024
 
 
-  - title: Education
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-
-      - **Postdoc. in Information & Electronics Research Institute, Korea Advanced Institute of Science and Technology (KAIST)**
-        
-        *Sep. 2023 - Present* 
-    
-      - **Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
-
-        Thesis Title: A Low-Power and Real-Time 3-D Object Recognition System-on-chip
-        
-        *Mar. 2020 - Aug. 2023* 
-        
-        Advisor: Hoi-Jun Yoo 
-      
-      - **M.S. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
-        
-        *Feb. 2018 - Feb. 2020* 
-        
-        Advisor: Hoi-Jun Yoo
-        
-      - **B.S. in Electrical Engineering, Pohang University of Science and Technology (POSTECH)**
-        
-        *Mar. 2014 - Feb. 2018*
-
-
-  - title: Awards & Scholarships
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - **ISOCC Chip Design Contest Dest Poster Award**, *2022*
-      - **Microsoft Research Asia Fellowship Nomination Award**, *2022*
-      - **IEEE Solid-State Circuits Society ISSCC Student Travel Grant Award**, *2022*
-      - **28th Samsung HumanTech Paper Award (Circuit Design) Bronze Prize**, *2022*
       
 
   - title: First Authored Publications # Title for the section
@@ -260,6 +226,40 @@ content:
           [Paper Link](https://ieeexplore.ieee.org/document/8702243)
 
 
+  - title: Education
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+
+      - **Postdoc. in Information & Electronics Research Institute, Korea Advanced Institute of Science and Technology (KAIST)**
+        
+        *Sep. 2023 - Present* 
+    
+      - **Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
+
+        Thesis Title: A Low-Power and Real-Time 3-D Object Recognition System-on-chip
+        
+        *Mar. 2020 - Aug. 2023* 
+        
+        Advisor: Hoi-Jun Yoo 
+      
+      - **M.S. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
+        
+        *Feb. 2018 - Feb. 2020* 
+        
+        Advisor: Hoi-Jun Yoo
+        
+      - **B.S. in Electrical Engineering, Pohang University of Science and Technology (POSTECH)**
+        
+        *Mar. 2014 - Feb. 2018*
+
+
+  - title: Awards & Scholarships
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **ISOCC Chip Design Contest Dest Poster Award**, *2022*
+      - **Microsoft Research Asia Fellowship Nomination Award**, *2022*
+      - **IEEE Solid-State Circuits Society ISSCC Student Travel Grant Award**, *2022*
+      - **28th Samsung HumanTech Paper Award (Circuit Design) Bronze Prize**, *2022*
 
       
 # Footer
