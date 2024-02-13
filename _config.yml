@@ -70,18 +70,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
-
-
-  ## Contents for HPCA 2024
-- title: "Materials of Google Talk and HPCA 2024 (Updated: Feb 2024)" # Title for the section 
-   layout: list # Type of content section (list/text)
-    content:
-      - layout: top
-        title: "1. LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units"
-        description: | # this will include new lines to allow paragraphs          
-          [Paper Download](papers/LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
-
-
   ## Contents for HPCA 2024
 #- title: "Materials of Google Talk and HPCA 2024 (Updated: Feb 2024)" # Title for the section 
 #   layout: list # Type of content section (list/text)
