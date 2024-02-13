@@ -53,7 +53,7 @@ googlescholar_username: 7qThsfUAAAAJ
 
 # About Section
 # about_title: About Me
-about_profile_image: ds_image.jpg
+about_profile_image: ds_image2.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Postdoctoral Researcher at KAIST Information & Electronics Research Institute, South Korea.
   My research interests are (1) energy-efficient **2D/3D vision system-on-chip** designs, 
