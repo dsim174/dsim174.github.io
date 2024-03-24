@@ -229,7 +229,7 @@ content:
   - title: Work Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Korea Advanced Institute of Science and Technology (KAIST), Information & Electronics Research Institute, **
+      - **Korea Advanced Institute of Science and Technology (KAIST), Information & Electronics Research Institute**
 
         **Postdoctoral Researcher**
         
