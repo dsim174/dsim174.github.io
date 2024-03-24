@@ -226,14 +226,17 @@ content:
 
           [Paper Link](https://ieeexplore.ieee.org/document/8702243)
 
-
-  - title: Education
+  - title: Work Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
 
       - **Postdoc. in Information & Electronics Research Institute, Korea Advanced Institute of Science and Technology (KAIST)**
         
         *Sep. 2023 - Present* 
+
+  - title: Education
+    layout: text
+    content: | # this will include new lines to allow paragraphs
     
       - **Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
 
