@@ -229,7 +229,9 @@ content:
   - title: Work Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Postdoc. in Information & Electronics Research Institute, Korea Advanced Institute of Science and Technology (KAIST)**
+      - **Korea Advanced Institute of Science and Technology (KAIST), Information & Electronics Research Institute, **
+
+        **Postdoctoral Researcher**
         
         *Sep. 2023 - Present* 
 
