@@ -229,7 +229,6 @@ content:
   - title: Work Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-
       - **Postdoc. in Information & Electronics Research Institute, Korea Advanced Institute of Science and Technology (KAIST)**
         
         *Sep. 2023 - Present* 
@@ -237,7 +236,6 @@ content:
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-    
       - **Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
 
         Thesis Title: A Low-Power and Real-Time 3-D Object Recognition System-on-chip
