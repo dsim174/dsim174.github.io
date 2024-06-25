@@ -57,14 +57,7 @@ about_profile_image: ds_image2.jpg
 about_content: | # this will include new lines to allow paragraphs
   ## I received the Ph.D. degree in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), South Korea. I am currently a Postdoctoral Researcher at KAIST Information & Electronics Research Institute. 
   ## My research interests are (1) energy-efficient **2D/3D vision system-on-chip** designs, (2) **digital circuit-, architecture-, and SW-level AI accelerator** designs, and (3) **custom silicon chip and demonstration system board** designs.
-  
-  ## **My Professional Skills:**
-  ## - Verilog, C/C++, Python, MATLAB, Java (Android API), C# (Unity API)
-  ## - Tensorflow, Pytorch
-  ## - Semi-custom Design Flow in Synopsys
-  ## - FPGA (Altera/Xilinx) Design Tool Chains
-  ## - Schematic Design in OrCAD Capture
-  ## - SoC Platform Design with RISC-V ISA
+
 
 content:
 
