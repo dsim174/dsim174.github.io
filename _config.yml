@@ -229,14 +229,14 @@ content:
   - title: Work Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## - Postdoc Researcher in **Information & Electronics Research Institute, Korea Advanced Institute of Science and Technology (KAIST)**      
+      ## - ** Postdoctoral Researcher in Information & Electronics Research Institute, Korea Advanced Institute of Science and Technology (KAIST)**      
         
         *Sep. 2023 - Present* 
 
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
+      ## - **Ph.D. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
 
         Thesis Title: A Low-Power and Real-Time 3-D Object Recognition System-on-chip
         
@@ -244,13 +244,13 @@ content:
         
         Advisor: Hoi-Jun Yoo 
       
-      - **M.S. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
+      ## - **M.S. in Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST)**
         
         *Feb. 2018 - Feb. 2020* 
         
         Advisor: Hoi-Jun Yoo
         
-      - **B.S. in Electrical Engineering, Pohang University of Science and Technology (POSTECH)**
+      ## - **B.S. in Electrical Engineering, Pohang University of Science and Technology (POSTECH)**
         
         *Mar. 2014 - Feb. 2018*
 
@@ -258,10 +258,10 @@ content:
   - title: Awards & Scholarships
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **ISOCC Chip Design Contest Dest Poster Award**, *2022*
-      - **Microsoft Research Asia Fellowship Nomination Award**, *2022*
-      - **IEEE Solid-State Circuits Society ISSCC Student Travel Grant Award**, *2022*
-      - **28th Samsung HumanTech Paper Award (Circuit Design) Bronze Prize**, *2022*
+      ## - **ISOCC Chip Design Contest Dest Poster Award**, *2022*
+      ## - **Microsoft Research Asia Fellowship Nomination Award**, *2022*
+      ## - **IEEE Solid-State Circuits Society ISSCC Student Travel Grant Award**, *2022*
+      ## - **28th Samsung HumanTech Paper Award (Circuit Design) Bronze Prize**, *2022*
 
       
 # Footer
