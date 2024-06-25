@@ -73,11 +73,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "(Updated: Feb 2024) Materials of Google Talk and HPCA 2024"
+        title: "(Updated: July 2024) 3D VR Video Projects"
         description: | # this will include new lines to allow paragraphs   
-          *** LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**          
+          ## *** 3D VR Videos**
+
+          Youtube Videos
+          <iframe width="320" height="240" src="//www.youtube.com/embed/wKWDi_IAPno" frameborder="0" allowfullscreen></iframe> 
+          3D VR video generation through monocular depth estimation.
+          Play VR videos on a Google Cardboard or AR/VR devices.
           
-          [Paper Download](papers/LUTein Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units.pdf)
 
           *** Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation**
 
@@ -87,7 +91,7 @@ content:
           
           [Paper Download](papers/HNPU_An_Adaptive_DNN_Training_Processor_Utilizing_Stochastic_Dynamic_Fixed-Point_and_Active_Bit-Precision_Searching.pdf)
 
-          <iframe width="192" height="216" src="//www.youtube.com/embed/wKWDi_IAPno" frameborder="0" allowfullscreen></iframe> <iframe width="192" height="216" src="//www.youtube.com/embed/wKWDi_IAPno" frameborder="0" allowfullscreen></iframe>
+          
         
       #- layout: top
       #  title: "(Updated: Feb 2024) Open to Work"
