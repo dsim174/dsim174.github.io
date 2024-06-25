@@ -73,26 +73,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "(Updated: July 2024) 3D VR Video Projects"
+        title: "(Updated: July 2024) 3D Video Projects"
         description: | # this will include new lines to allow paragraphs   
           ## **- 3D VR Videos**
           
           <iframe width="320" height="240" src="//www.youtube.com/embed/wKWDi_IAPno" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/6O2CfkIu6O0" frameborder="0" allowfullscreen></iframe> 
-          3D VR video generation through monocular depth estimation.
+          This project generates 3D VR videos from a single video through AI technology.
+          A right scene is synthesized by depth information against an original left scene.
           Play VR videos on a Google Cardboard or AR/VR devices.
           
 
           ## **- 3D Glasses Videos**
 
           <iframe width="320" height="240" src="https://www.youtube.com/embed/e9_BszpIbkM" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/-Pzr-7ZGU0I" frameborder="0" allowfullscreen></iframe>
-          3D VR video generation through monocular depth estimation.
-          Play VR videos on a Google Cardboard or AR/VR devices.
+          This project generates 3D Glasses videos from a single video through AI technology.
+          An original video decomposed into Red and Cyan colors and applies depth information on Cyan colors for 3D effects.
+          Play this video with Red-Cyan anaglyph glasses.
 
           ## **- 3D Photos**
           
           <iframe width="320" height="240" src="https://www.youtube.com/embed/uxKrRniZif8" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/GLnWiT9vhgY" frameborder="0" allowfullscreen></iframe> 
-          3D VR video generation through monocular depth estimation.
-          Play VR videos on a Google Cardboard or AR/VR devices.
+          This project generates 3D photos from a single image through AI technology.
+          This 3D effect provides a novel view synthesis that looks left and right.
 
           
         
