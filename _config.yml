@@ -110,11 +110,12 @@ content:
         sub_title: IEEE International Symposium on High-Performance Computer Architecture
         caption: March 2024
         description: | # this will include new lines to allow paragraphs
-          **<font color='#FF0000'>(New)</font> LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
+          #**<font color='#FF0000'>(New)</font> LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
+          **LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
        
           *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
 
-          To be published
+          [Paper Link](https://ieeexplore.ieee.org/abstract/document/10476468)
 
       - layout: left
         title: Micro Journal
