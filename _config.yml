@@ -72,7 +72,7 @@ content:
           
           <iframe width="320" height="240" src="//www.youtube.com/embed/wKWDi_IAPno" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/6O2CfkIu6O0" frameborder="0" allowfullscreen></iframe> 
           This project generates 3D VR videos from a single video through AI technology.
-          A right scene is synthesized by depth information against an original left scene.
+          A right scene is synthesized by applying depth to an original left scene.
           Play VR videos on a Google Cardboard or AR/VR devices.
           
 
@@ -80,7 +80,7 @@ content:
 
           <iframe width="320" height="240" src="https://www.youtube.com/embed/e9_BszpIbkM" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/-Pzr-7ZGU0I" frameborder="0" allowfullscreen></iframe>
           This project generates 3D Glasses videos from a single video through AI technology.
-          An original video decomposed into Red and Cyan colors and applies depth information on Cyan colors for 3D effects.
+          Red and Cyan colors are separated from an original video, and pixels corresponding to Cyan colors are shifted based on a depth map for 3D effects.
           Play this video with Red-Cyan anaglyph glasses.
 
           ## **- 3D Photos**
