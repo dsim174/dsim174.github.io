@@ -121,7 +121,7 @@ content:
         sub_title: IEEE Micro
         caption: May-June 2023
         description: | # this will include new lines to allow paragraphs
-          **A Mobile 3-D Object Recognition Processor With Deep-Learning-Based Monocular Depth Estimation**
+          ## **A Mobile 3-D Object Recognition Processor With Deep-Learning-Based Monocular Depth Estimation**
        
           *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
 
@@ -132,7 +132,7 @@ content:
         sub_title: IEEE International Symposium on High-Performance Computer Architecture
         caption: March 2023
         description: | # this will include new lines to allow paragraphs
-          **Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation**
+          ## **Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation**
        
           *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, and Hoi-Jun Yoo*
 
@@ -143,7 +143,7 @@ content:
         sub_title: IEEE Journal of Solid-State Circuits
         caption: January 2023
         description: | # this will include new lines to allow paragraphs
-          **DSPU: An Efficient Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3-D Perception SoC**
+          ## **DSPU: An Efficient Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3-D Perception SoC**
        
           *<ins>Dongseok Im</ins>, Gwangtae Park, Junha Ryu, Zhiyong Li, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
 
@@ -154,7 +154,7 @@ content:
         sub_title: IEEE Hot Chips Symposium
         caption: August 2022
         description: | # this will include new lines to allow paragraphs
-          **DSPU: A 281.6mW Real-Time Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3D Perception System-on-Chip**
+          ## **DSPU: A 281.6mW Real-Time Deep Learning-Based Dense RGB-D Data Acquisition with Sensor Fusion and 3D Perception System-on-Chip**
        
           *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
 
@@ -165,7 +165,7 @@ content:
         sub_title: IEEE Symposium on Low-Power and High-Speed Chips and Systems
         caption: April 2022
         description: | # this will include new lines to allow paragraphs
-          **A Low-power and Real-time 3D Object Recognition Processor with Dense RGB-D Data Acquisition in Mobile Platforms**
+          ## **A Low-power and Real-time 3D Object Recognition Processor with Dense RGB-D Data Acquisition in Mobile Platforms**
        
           *<ins>Dongseok Im</ins>, Gwangtae Park, Junha Ryu, Zhiyong Li, Sanghoon Kang, Donghyeon Han, Jinsu Lee, Wonhoon Park, Hankyul Kwon, and Hoi-Jun Yoo*
 
@@ -176,7 +176,7 @@ content:
         sub_title: IEEE International Conference on Solid-State Circuits
         caption: February 2022
         description: | # this will include new lines to allow paragraphs
-          **DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-Based Dense RGB-D Data Acquisition with Depth Fusion and 3D Bounding Box Extraction in Mobile Platforms**
+          ## **DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-Based Dense RGB-D Data Acquisition with Depth Fusion and 3D Bounding Box Extraction in Mobile Platforms**
        
           *<ins>Dongseok Im</ins>, Gwangtae Park, Zhiyong Li, Junha Ryu, Sanghoon Kang, Donghyeon Han, Jinsu Lee, and Hoi-Jun Yoo*
 
@@ -187,7 +187,7 @@ content:
         sub_title: IEEE Journal of Solid-State Circuits
         caption: February 2022
         description: | # this will include new lines to allow paragraphs
-          **A Pipelined Point Cloud Based Neural Network Processor for 3-D Vision With Large-Scale Max Pooling Layer Prediction**
+          ## **A Pipelined Point Cloud Based Neural Network Processor for 3-D Vision With Large-Scale Max Pooling Layer Prediction**
        
           *<ins>Dongseok Im</ins>, Sanghoon Kang, Donghyeon Han, Sungpil Choi, and Hoi-Jun Yoo*
 
@@ -198,7 +198,7 @@ content:
         sub_title: "IEEE Transactions on Circuits and Systems I: Regular Papers"
         caption: October 2020
         description: | # this will include new lines to allow paragraphs
-          **DT-CNN: An energy-efficient dilated and transposed convolutional neural network processor for region of interest based image segmentation**
+          ## **DT-CNN: An energy-efficient dilated and transposed convolutional neural network processor for region of interest based image segmentation**
        
           *<ins>Dongseok Im</ins>, Donghyeon Han, Sungpil Choi, Sanghoon Kang, and Hoi-Jun Yoo*
 
@@ -209,7 +209,7 @@ content:
         sub_title: IEEE Symposium on VLSI Technology and Circuits
         caption: June 2020
         description: | # this will include new lines to allow paragraphs
-          **A 4.45 ms Low-latency 3D Point-cloud-based Neural Network Processor for Hand Pose Estimation in Immersive Wearable Devices**
+          ## **A 4.45 ms Low-latency 3D Point-cloud-based Neural Network Processor for Hand Pose Estimation in Immersive Wearable Devices**
        
           *<ins>Dongseok Im</ins>, Sanghoon Kang, Donghyeon Han, Sungpil Choi, and Hoi-Jun Yoo*
 
@@ -220,7 +220,7 @@ content:
         sub_title: IEEE International Symposium on Circuits and Systems
         caption: May 2019
         description: | # this will include new lines to allow paragraphs
-          **DT-CNN: Dilated and transposed convolution neural network accelerator for real-time image segmentation on mobile devices**
+          ## **DT-CNN: Dilated and transposed convolution neural network accelerator for real-time image segmentation on mobile devices**
        
           *<ins>Dongseok Im</ins>, Donghyeon Han, Sungpil Choi, Sanghoon Kang, and Hoi-Jun Yoo*
 
