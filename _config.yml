@@ -68,7 +68,7 @@ content:
       - layout: top
         title: "(Updated: July 2024) New Paper at MICRO-57"
         description: | # this will include new lines to allow paragraphs   
-          ## **- Multi-camera Processing Unit**
+          ## **- CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
           
           My recent research has been accepted at the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO-57).
           
@@ -91,7 +91,7 @@ content:
           This project generates 3D VR videos from a single video through AI technology.
           The right video is synthesized from the left one fitting in different perspective views of human eyes.
           This project is run on a single RTX2080Ti card.
-          The Synthesis of the right side video takes 0.3 seconds per frame without any AI network finetunning. 
+          The Synthesis of the right side video takes 0.3 seconds per frame without any AI network finetunning.
           Play VR videos on a Google Cardboard or AR/VR devices.
 
           ## **- 3D Glasses Videos**
