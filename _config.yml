@@ -131,11 +131,11 @@ content:
         sub_title: IEEE/ACM International Symposium on Microarchitecture
         caption: November 2024
         description: | # this will include new lines to allow paragraphs                    
-          ## **CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
+          ## **<font color='#FF0000'>(New)</font> CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
        
           *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
 
-          [Paper Link](https://ieeexplore.ieee.org/abstract/document/10476468)
+          To be appeared
     
       - layout: left
         title: HPCA 2024
