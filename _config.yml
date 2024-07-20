@@ -66,7 +66,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "(Updated: June 2024) Launching 3D Video Projects"
+        title: "(Updated: July 2024) New Paper at MICRO-57"
+        description: | # this will include new lines to allow paragraphs   
+          ## **- Multi-camera Processing Unit**
+          
+          My recent research has been accepted at the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO-57).
+          
+      - layout: top
+        title: "(Updated: July 2024) Launching 3D Video Projects"
         description: | # this will include new lines to allow paragraphs   
           ## **- 360-degree 3D VR Videos**
 
@@ -82,7 +89,7 @@ content:
           
           <iframe width="320" height="240" src="//www.youtube.com/embed/wKWDi_IAPno" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/6O2CfkIu6O0" frameborder="0" allowfullscreen></iframe> 
           This project generates 3D VR videos from a single video through AI technology.
-          The right video is synthesized from the left one fitting in different perspective views of human eyes.        
+          The right video is synthesized from the left one fitting in different perspective views of human eyes.
           This project is run on a single RTX2080Ti card.
           The Synthesis of the right side video takes 0.3 seconds per frame without any AI network finetunning. 
           Play VR videos on a Google Cardboard or AR/VR devices.
