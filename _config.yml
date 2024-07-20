@@ -69,6 +69,8 @@ content:
         title: "(Updated: July 2024) New Paper at MICRO-57"
         description: | # this will include new lines to allow paragraphs   
           ## **- CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
+
+          ![CamPU Architecture](/campu.png)
           
           My recent research has been accepted at the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO-57).
           
