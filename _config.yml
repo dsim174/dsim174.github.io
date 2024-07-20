@@ -70,6 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs   
           ## **- CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
 
+          <img src="campu.png" width="50%" height="50%" title="제목" alt="absolute"/> 
           ![CamPU Architecture](/campu.png)
           
           My recent research has been accepted at the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO-57).
