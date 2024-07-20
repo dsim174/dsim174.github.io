@@ -70,7 +70,7 @@ content:
         description: | # this will include new lines to allow paragraphs   
           ## **- CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
 
-          <img src="campu.png" width="50%" height="50%" title="CamPU Architecture" alt="absolute"/>           
+          <img src="campu.png" width="75%" height="75%" title="CamPU Architecture" alt="absolute"/>           
           
           My recent research has been accepted at the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO-57).
           
@@ -126,6 +126,17 @@ content:
   - title: First Authored Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: MICRO 2024
+        sub_title: IEEE/ACM International Symposium on Microarchitecture
+        caption: November 2024
+        description: | # this will include new lines to allow paragraphs                    
+          ## **CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
+       
+          *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
+
+          [Paper Link](https://ieeexplore.ieee.org/abstract/document/10476468)
+    
       - layout: left
         title: HPCA 2024
         sub_title: IEEE International Symposium on High-Performance Computer Architecture
