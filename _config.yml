@@ -68,6 +68,16 @@ content:
       - layout: top
         title: "(Updated: June 2024) Launching 3D Video Projects"
         description: | # this will include new lines to allow paragraphs   
+          ## **- 360-degree 3D VR Videos**
+
+          <iframe width="320" height="240" src="https://www.youtube.com/embed/_aKuJZCHHpU" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/YCJpa6C7F6w" frameborder="0" allowfullscreen></iframe> 
+          This 360-degree 3D VR video projects a single 360-degree video into perspective views corresponding to human eyes with 3D depth effects through AI technology.
+          A right scene is synthesized by applying depth to an original left scene.
+          This project is run on a single RTX2080Ti card.
+          The synthesis of a 360-degree 3D VR video takes 1 second per frame without any AI network finetunning.
+          Left and right rendering displays take a total of 50 ms of latency as a view changes.
+          We have developed further quality and performance improvement.
+          
           ## **- 3D VR Videos**
           
           <iframe width="320" height="240" src="//www.youtube.com/embed/wKWDi_IAPno" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/6O2CfkIu6O0" frameborder="0" allowfullscreen></iframe> 
