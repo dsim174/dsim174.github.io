@@ -301,9 +301,9 @@ content:
   - title: Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## **[Invited Talk]** ***Google TPU Architect Team Talk (San Jose, CA)***, "Circuit, Architecture, and Software Co-design of a Bit-slice Architecture for Dense and Sparse DNN Accelerations," *2024*      
+      ## ***[Invited Talk]*** **Google TPU Architect Team Talk (San Jose, CA)***, "Circuit, Architecture, and Software Co-design of a Bit-slice Architecture for Dense and Sparse DNN Accelerations," *2024*      
           
-      ## **[Invited Talk]** ***Samsung AI Forum 2023 Poster Session Presenter***, *2023*
+      ## ***[Invited Talk]*** **Samsung AI Forum 2023 Poster Session Presenter***, *2023*
       
       ## **[Invited Talk]** ***Samsung Electronics DRAM Design Team Talk***, *2023*
       
