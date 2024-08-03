@@ -229,12 +229,7 @@ content:
           ## **- 360-degree 3D VR Videos**
 
           <iframe width="320" height="240" src="https://www.youtube.com/embed/_aKuJZCHHpU" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/YCJpa6C7F6w" frameborder="0" allowfullscreen></iframe> 
-          ## This 360-degree 3D VR video projects a single 360-degree video into perspective views corresponding to human eyes with 3D depth effects through AI technology.
-          The left video is captured through a dual-fisheye lens camera, and the right video is synthesized by applying depth to an original left scene.
-          This project is run on a single RTX2080Ti card.
-          The synthesis of a 360-degree 3D VR video takes 1 second per frame without any AI network finetunning.
-          Left and right rendering displays take a total of 50 ms of latency as a view changes.
-          Play VR videos on a Google Cardboard or AR/VR devices.
+          ## This 360-degree 3D VR video projects a single 360-degree video into perspective views corresponding to human eyes with 3D depth effects through AI technology. The left video is captured through a dual-fisheye lens camera, and the right video is synthesized by applying depth to an original left scene. This project is run on a single RTX2080Ti card. The synthesis of a 360-degree 3D VR video takes 1 second per frame without any AI network finetunning. Left and right rendering displays take a total of 50 ms of latency as a view changes. Play VR videos on a Google Cardboard or AR/VR devices.
           
           ## **- 3D VR Videos**
           
