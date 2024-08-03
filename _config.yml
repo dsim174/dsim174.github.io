@@ -229,7 +229,7 @@ content:
           ## **- 360-degree 3D VR Videos**
 
           <iframe width="320" height="240" src="https://www.youtube.com/embed/_aKuJZCHHpU" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/YCJpa6C7F6w" frameborder="0" allowfullscreen></iframe> 
-          This 360-degree 3D VR video projects a single 360-degree video into perspective views corresponding to human eyes with 3D depth effects through AI technology.
+          ## This 360-degree 3D VR video projects a single 360-degree video into perspective views corresponding to human eyes with 3D depth effects through AI technology.
           The left video is captured through a dual-fisheye lens camera, and the right video is synthesized by applying depth to an original left scene.
           This project is run on a single RTX2080Ti card.
           The synthesis of a 360-degree 3D VR video takes 1 second per frame without any AI network finetunning.
@@ -239,7 +239,7 @@ content:
           ## **- 3D VR Videos**
           
           <iframe width="320" height="240" src="//www.youtube.com/embed/wKWDi_IAPno" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/6O2CfkIu6O0" frameborder="0" allowfullscreen></iframe> 
-          This project generates 3D VR videos from a single video through AI technology.
+          ## This project generates 3D VR videos from a single video through AI technology.
           The right video is synthesized from the left one fitting in different perspective views of human eyes.
           This project is run on a single RTX2080Ti card.
           The Synthesis of the right side video takes 0.3 seconds per frame without any AI network finetunning.
@@ -248,14 +248,14 @@ content:
           ## **- 3D Glasses Videos**
 
           <iframe width="320" height="240" src="https://www.youtube.com/embed/e9_BszpIbkM" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/-Pzr-7ZGU0I" frameborder="0" allowfullscreen></iframe>
-          This project generates 3D Glasses videos from a single video through AI technology.
+          ## This project generates 3D Glasses videos from a single video through AI technology.
           Red and Cyan colors are separated from an original video, and pixels corresponding to Cyan colors are shifted based on a depth map for 3D effects.
           Play this video with Red-Cyan anaglyph glasses.
 
           ## **- 3D Photos**
           
           <iframe width="320" height="240" src="https://www.youtube.com/embed/uxKrRniZif8" frameborder="0" allowfullscreen></iframe> <iframe width="320" height="240" src="https://www.youtube.com/embed/GLnWiT9vhgY" frameborder="0" allowfullscreen></iframe> 
-          This project generates 3D photos from a single image through AI technology.
+          ## This project generates 3D photos from a single image through AI technology.
           This 3D effect provides a novel view synthesis that looks left and right.
 
   - title: Work Experience
