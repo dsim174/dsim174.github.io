@@ -261,7 +261,7 @@ content:
   - title: Work Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## **- KAIST Information & Electronics Research Institute**      
+      ## **KAIST Information & Electronics Research Institute**      
 
       **Postdoctoral Researcher**
         
@@ -312,15 +312,40 @@ content:
       ## **[Invited Talk] Apple Neural Engine Team Talk (San Jose, CA)**, "DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-based Dense RGB-D Data Acquisition with Depth Fusion and 3D B-Box Extraction," *2022*
 
       ## **[Consultation] Expert Consultation on IITP ICT R&D Projects**,	*2023*
+      
       ## **[Journal Reviewer] Elsevier Knowledge-Based Systems, *2024*
+      
       ## **[Journal Reviewer] Nature Scientific Reports, *2024*
+      
       ## **[Journal Reviewer] IEEE Journal of Solid-State Circuits,	*2023*
+      
       ## **[Journal Reviewer] Springer The Journal of Supercomputing,	*2023*
+      
       ## **[Journal Reviewer] IEEE Transaction on Circuits and Systems I, *2021, 2022*
+      
       ## **[System Demo] ACM/IEEE ISLPED Design Contest Presenter, *2022*
+      
       ## **[System Demo] IEEE ISSCC Demonstration Session Presenter, *2022*
+      
       ## **[Student Chair] Student chair of the KAIST Semiconductor System Lab, *2021-2022*
+      
       ## **[International Exchange Program] Summer Session, UC Berkeley, *2016*
+
+  - title: Patent
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      ## "APPARATUS AND METHOD FOR GENERATING SIGNED BIT SLICE, SIGNED BIT SLICE CALCULATOR, AND ARTIFICIAL INTELLIGENCE NEURAL NETWORK ACCELERATOR TO WHICH THE SAME IS APPLIED,” *United States Patent Application*
+      
+      ## “CONJUGATE GRADIENT ACCELERATION APPARATUS USING BAND MATRIX COMPRESSION IN DEPTH FUSION TECHNOLOGY,” *United States Patent Application*
+      
+      ## "3D POINT CLOUD-BASED DEEP LEARNING NEURAL NETWORK ACCELERATION APPARATUS AND METHOD,” *United States Patent Application*
+      
+      ## “부호형 비트 슬라이스 생성기 및 그 방법과, 부호형 비트 슬라이스 연산기와, 이들을 적용한 인공지능 신경망 가속장치”, *Korean Patent Application*
+      
+      ##“3D 포인트 클라우드 기반 딥러닝 신경망 가속 장치 및 그 방법”, *Korean Patent Application*
+      
+      ##“뎁스 퓨전 기술에서의 띠행렬 압축을 이용한 켤레기울기 가속 장치”, *Korean Granted Patent, 10-2600979*
+ 
 
       
       
