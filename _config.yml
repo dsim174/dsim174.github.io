@@ -263,9 +263,9 @@ content:
     content: | # this will include new lines to allow paragraphs
       ## **• KAIST Information & Electronics Research Institute**      
 
-       ## **Postdoctoral Researcher**
+       **Postdoctoral Researcher**
         
-        *Sep. 2023 - Current* 
+       *Sep. 2023 - Current* 
 
   - title: Education
     layout: text
@@ -301,15 +301,17 @@ content:
   - title: Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## **- [Invited Talk] Google TPU Architect Team Talk (San Jose, CA)**, Talk Title: Circuit, Architecture, and Software Co-design of a Bit-slice Architecture for Dense and Sparse DNN Accelerations, *2024*
+      ## **• [Invited Talk] Google TPU Architect Team Talk (San Jose, CA)**, *2024*
+
+      ## Talk Title: Circuit, Architecture, and Software Co-design of a Bit-slice Architecture for Dense and Sparse DNN Accelerations
           
-      ## **- [Invited Talk] Samsung AI Forum 2023 Poster Session Presenter**, *2023*
+      ## **• [Invited Talk] Samsung AI Forum 2023 Poster Session Presenter**, *2023*
       
-      ## **- [Invited Talk] Samsung Electronics DRAM Design Team Talk**, *2023*
+      ## **• [Invited Talk] Samsung Electronics DRAM Design Team Talk**, *2023*
       
-      ## **- [Invited Talk] Apple Neural Engine Team Talk (San Jose, CA)**, Talk Title: Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation, *2023*
+      ## **• [Invited Talk] Apple Neural Engine Team Talk (San Jose, CA)**, Talk Title: Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation, *2023*
         
-      ## **- [Invited Talk] Apple Neural Engine Team Talk (San Jose, CA)**, Talk Title: DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-based Dense RGB-D Data Acquisition with Depth Fusion and 3D B-Box Extraction, *2022*
+      ## **• [Invited Talk] Apple Neural Engine Team Talk (San Jose, CA)**, Talk Title: DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-based Dense RGB-D Data Acquisition with Depth Fusion and 3D B-Box Extraction, *2022*
       
       
 # Footer
