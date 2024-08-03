@@ -303,33 +303,31 @@ content:
     content: | # this will include new lines to allow paragraphs
       ## **[Invited Talk]** ***Google TPU Architect Team Talk (San Jose, CA)***, "Circuit, Architecture, and Software Co-design of a Bit-slice Architecture for Dense and Sparse DNN Accelerations," *2024*      
           
-      ## **[Invited Talk] Samsung AI Forum 2023 Poster Session Presenter**, *2023*
+      ## **[Invited Talk]** ***Samsung AI Forum 2023 Poster Session Presenter***, *2023*
       
-      ## **[Invited Talk] Samsung Electronics DRAM Design Team Talk**, *2023*
+      ## **[Invited Talk]** ***Samsung Electronics DRAM Design Team Talk***, *2023*
       
-      ## **[Invited Talk] Apple Neural Engine Team Talk (San Jose, CA)**, "Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation," *2023*
+      ## **[Invited Talk]** ***Apple Neural Engine Team Talk (San Jose, CA)***, "Sibia: Signed Bit-slice Architecture for Dense DNN Acceleration with Slice-level Sparsity Exploitation," *2023*
         
-      ## **[Invited Talk] Apple Neural Engine Team Talk (San Jose, CA)**, "DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-based Dense RGB-D Data Acquisition with Depth Fusion and 3D B-Box Extraction," *2022*
+      ## **[Invited Talk]** ***Apple Neural Engine Team Talk (San Jose, CA)***, "DSPU: A 281.6mW Real-Time Depth Signal Processing Unit for Deep Learning-based Dense RGB-D Data Acquisition with Depth Fusion and 3D B-Box Extraction," *2022*
 
-      ## **[Consultation] Expert Consultation on IITP ICT R&D Projects**,*2023*
+      ## **[Consultation]** ***Expert Consultation on IITP ICT R&D Projects***,*2023*
       
-      ## **[Journal Reviewer] Elsevier Knowledge-Based Systems**, *2024*
+      ## **[Journal Reviewer]** ***Elsevier Knowledge-Based Systems***, *2024*
       
-      ## **[Journal Reviewer] Nature Scientific Reports**, *2024*
+      ## **[Journal Reviewer]** ***Nature Scientific Reports***, *2024*
       
-      ## **[Journal Reviewer] IEEE Journal of Solid-State Circuits**, *2023*
+      ## **[Journal Reviewer]** ***IEEE Journal of Solid-State Circuits***, *2023*
       
-      ## **[Journal Reviewer] Springer The Journal of Supercomputing**, *2023*
+      ## **[Journal Reviewer]** ***Springer The Journal of Supercomputing***, *2023*
       
-      ## **[Journal Reviewer] IEEE Transaction on Circuits and Systems I**, *2021, 2022*
+      ## **[Journal Reviewer]** ***IEEE Transaction on Circuits and Systems I***, *2021, 2022*
       
-      ## **[System Demo] ACM/IEEE ISLPED Design Contest Presenter**, *2022*
+      ## **[System Demo]** ***ACM/IEEE ISLPED Design Contest Presenter***, *2022*
       
-      ## **[System Demo] IEEE ISSCC Demonstration Session Presenter**, *2022*
+      ## **[System Demo]** ***IEEE ISSCC Demonstration Session Presenter***, *2022*          
       
-      ## **[Student Chair] Student chair of the KAIST Semiconductor System Lab**, *2021-2022*
-      
-      ## **[International Exchange Program] Summer Session, UC Berkeley**, *2016*
+      ## **[International Exchange Program]** ***Summer Session, UC Berkeley***, *2016*
 
   - title: Patent
     layout: text
