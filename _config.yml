@@ -104,7 +104,8 @@ content:
         sub_title: IEEE/ACM International Symposium on Microarchitecture
         caption: November 2024
         description: | # this will include new lines to allow paragraphs                    
-          ## **<font color='#FF0000'>(New)</font> CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
+          ## ** CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
+          # ## **<font color='#FF0000'>(New)</font> CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
        
           *<ins>Dongseok Im</ins> and Hoi-Jun Yoo*
 
@@ -331,17 +332,21 @@ content:
   - title: Patent
     layout: text
     content: | # this will include new lines to allow paragraphs
-      ## "APPARATUS AND METHOD FOR GENERATING SIGNED BIT SLICE, SIGNED BIT SLICE CALCULATOR, AND ARTIFICIAL INTELLIGENCE NEURAL NETWORK ACCELERATOR TO WHICH THE SAME IS APPLIED,” *United States Patent Application*
+      ## 1. "STEREOSCOPIC 360-DEGREE IMAGE/VIDEO GENERATION AND 3D DISPLAY SYSTEM," *United States Patent Application*
+    
+      ## 2. "APPARATUS AND METHOD FOR GENERATING SIGNED BIT SLICE, SIGNED BIT SLICE CALCULATOR, AND ARTIFICIAL INTELLIGENCE NEURAL NETWORK ACCELERATOR TO WHICH THE SAME IS APPLIED,” *United States Patent Application*
       
-      ## “CONJUGATE GRADIENT ACCELERATION APPARATUS USING BAND MATRIX COMPRESSION IN DEPTH FUSION TECHNOLOGY,” *United States Patent Application*
+      ## 3. “CONJUGATE GRADIENT ACCELERATION APPARATUS USING BAND MATRIX COMPRESSION IN DEPTH FUSION TECHNOLOGY,” *United States Patent Application*
       
-      ## "3D POINT CLOUD-BASED DEEP LEARNING NEURAL NETWORK ACCELERATION APPARATUS AND METHOD,” *United States Patent Application*
+      ## 4. "3D POINT CLOUD-BASED DEEP LEARNING NEURAL NETWORK ACCELERATION APPARATUS AND METHOD,” *United States Patent Application*
+
+      ## 5. "스테레오스코픽 360도 이미지/영상 생성 및 3차원 디스플레이 시스템", "Korea Patent Application*
       
-      ## “부호형 비트 슬라이스 생성기 및 그 방법과, 부호형 비트 슬라이스 연산기와, 이들을 적용한 인공지능 신경망 가속장치”, *Korean Patent Application*
+      ## 6. “부호형 비트 슬라이스 생성기 및 그 방법과, 부호형 비트 슬라이스 연산기와, 이들을 적용한 인공지능 신경망 가속장치”, *Korean Patent Application*
       
-      ## “3D 포인트 클라우드 기반 딥러닝 신경망 가속 장치 및 그 방법”, *Korean Patent Application*
+      ## 7. “3D 포인트 클라우드 기반 딥러닝 신경망 가속 장치 및 그 방법”, *Korean Patent Application*
       
-      ## “뎁스 퓨전 기술에서의 띠행렬 압축을 이용한 켤레기울기 가속 장치”, *Korean Granted Patent, 10-2600979*
+      ## 8. “뎁스 퓨전 기술에서의 띠행렬 압축을 이용한 켤레기울기 가속 장치”, *Korean Granted Patent, 10-2600979*
  
 
       
