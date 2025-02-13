@@ -66,13 +66,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "(Updated: July 2024) New Paper Accepted at MICRO-57"
+        
+        title: "(Updated: Feb 2025) New US Patent Application"
         description: | # this will include new lines to allow paragraphs   
-          ## **- CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
+           **- STEREOSCOPIC 360-DEGREE IMAGE/VIDEO GENERATION AND 3D DISPLAY SYSTEM**
 
-          <img src="campu.png" width="75%" height="75%" title="CamPU Architecture" alt="absolute"/>           
-          
-          ## My recent research has been accepted at the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO-57).
+      
+     #   title: "(Updated: July 2024) New Paper Accepted at MICRO-57"
+     #   description: | # this will include new lines to allow paragraphs   
+     #     ## **- CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
+     #
+     #     <img src="campu.png" width="75%" height="75%" title="CamPU Architecture" alt="absolute"/>           
+     #     
+     #     ## My recent research has been accepted at the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO-57).
           
         
       #- layout: top
