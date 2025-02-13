@@ -299,6 +299,8 @@ content:
   - title: Activities
     layout: text
     content: | # this will include new lines to allow paragraphs
+      ## **[Invited Talk]** ***Apple Neural Engine Team Talk (San Jose, CA)***, "CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems," *2024*
+      
       ## **[Invited Talk]** ***Google TPU Architect Team Talk (San Jose, CA)***, "Circuit, Architecture, and Software Co-design of a Bit-slice Architecture for Dense and Sparse DNN Accelerations," *2024*      
           
       ## **[Invited Talk]** ***Samsung AI Forum 2023 Poster Session Presenter***, *2023*
