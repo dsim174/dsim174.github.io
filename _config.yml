@@ -65,12 +65,12 @@ content:
 
   ## Contents for HPCA 2024
   - title: "News" # Title for the section 
-    layout: list # Type of content section (list/text)
+    layout: item # Type of content section (list/text)
     content:
-      - layout: item
+      - layout: top
         
         title: "(Updated: Feb 2025) New US Patent Application"
-    
+        
         description: | # this will include new lines to allow paragraphs   
           ## **- STEREOSCOPIC 360-DEGREE IMAGE/VIDEO GENERATION AND 3D DISPLAY SYSTEM**
           <!--more-->
