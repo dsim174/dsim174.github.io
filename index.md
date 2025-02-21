@@ -9,3 +9,13 @@
 layout: list
 title: Home
 ---
+
+## Welcome to My Site
+
+This is a test page for the "News" section.
+
+{% for item in site.data.content %}
+  <h2>{{ item.title }}</h2>
+  <p>{{ item.excerpt }}</p>
+  <a href="#">더보기</a>
+{% endfor %}
