@@ -68,6 +68,10 @@ content:
       - layout: top
         
         title: "(Updated: Feb 2025) New US Patent Application"
+
+        excerpt: |
+        ## **- Test**
+        
         description: | # this will include new lines to allow paragraphs   
           ## **- STEREOSCOPIC 360-DEGREE IMAGE/VIDEO GENERATION AND 3D DISPLAY SYSTEM**
           
@@ -94,8 +98,7 @@ content:
   ## Contents for HPCA 2024
   ## **<font color='#FF0000'>(New)</font> LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
 
-        excerpt: |
-        ## **- Test**
+
 
   - title: First Authored Publications # Title for the section
     layout: list # Type of content section (list/text)
