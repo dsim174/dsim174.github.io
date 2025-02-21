@@ -94,7 +94,8 @@ content:
   ## Contents for HPCA 2024
   ## **<font color='#FF0000'>(New)</font> LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
 
-      
+        excerpt: |
+        ## **- Test**
 
   - title: First Authored Publications # Title for the section
     layout: list # Type of content section (list/text)
