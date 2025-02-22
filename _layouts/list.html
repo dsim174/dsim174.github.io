@@ -1,6 +1,10 @@
-{% if post.excerpt %}
-  <p>{{ post.excerpt }}</p>
-  <a href="{{ post.url }}" class="read-more">더보기</a>
-{% else %}
-  <p>{{ post.description }}</p>
-{% endif %}
+{% for post in site.content %}
+  <div class="post">
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.excerpt }}</p>
+    
+    {% if post.excerpt and post.content contains "<!-- more -->" %}
+      <a href="{{ post.url }}" class="read-more">더보기</a>
+    {% endif %}
+  </div>
+{% endfor %}
