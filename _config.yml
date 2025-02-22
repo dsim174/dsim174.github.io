@@ -81,7 +81,11 @@ content:
      #     <img src="campu.png" width="75%" height="75%" title="CamPU Architecture" alt="absolute"/>           
      #     
      #     ## My recent research has been accepted at the 57th IEEE/ACM International Symposium on Microarchitecture (MICRO-57).
-          
+
+      - layout: top  
+        title: "(Updated: Feb 2024) New Paper Accepted at HPCA"
+        description: | # this will include new lines to allow paragraphs   
+          ## **- LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
         
       #- layout: top
       #  title: "(Updated: Feb 2024) Open to Work"
