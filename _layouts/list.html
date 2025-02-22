@@ -1,35 +1,17 @@
+<!-- _layouts/list.html -->
 ---
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<div class="post-list">
+  {% for post in site.posts %}
+    <div class="post-item">
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
-{% for item in site.content %}
-  <div class="news-item">
-    <h3>{{ item.title }}</h3>
-    <div class="excerpt">
-      {{ item.excerpt }}
+      <div class="post-excerpt">
+        {{ post.excerpt }}
+        <a href="{{ post.url }}" class="more-link">더 보기</a>
+      </div>
     </div>
-    <div class="full-content" style="display: none;">
-      {{ item.description }}
-    </div>
-    <button class="read-more">더보기</button>
-  </div>
-{% endfor %}
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    document.querySelectorAll(".read-more").forEach(button => {
-      button.addEventListener("click", function() {
-        var content = this.previousElementSibling;
-        if (content.style.display === "none" || content.style.display === "") {
-          content.style.display = "block";
-          this.textContent = "닫기";
-        } else {
-          content.style.display = "none";
-          this.textContent = "더보기";
-        }
-      });
-    });
-  });
-</script>
+  {% endfor %}
+</div>
