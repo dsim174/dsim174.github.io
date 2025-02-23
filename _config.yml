@@ -77,8 +77,8 @@ content:
       - layout: top  
         title: "Past News"
         description: | # this will include new lines to allow paragraphs   
-          ## **- (Updated: July 2024) New Paper Accepted at MICRO-57: CamPU: A Multi-Camera Processing Unit for Deep Learning-based 3D Spatial Computing Systems**
-          ## **- (Updated: Feb 2024) New Paper Accepted at HPCA 2024: LUTein: Dense-Sparse Bit-slice Architecture with Radix-4 LUT-based Slice-Tensor Processing Units**
+          ## **- (Updated: July 2024) New Paper Accepted at MICRO-57**
+          ## **- (Updated: Feb 2024) New Paper Accepted at HPCA 2024**
 
         
      # - layout: top  
