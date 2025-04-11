@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Dongseok Im
-title: Post-doctoral Researcher
+title: AI/ML System and Silicon Architect
 email: dsim@kaist.ac.kr / LDS1235566@gmail.com
 # website: www.github.com/sproogen/resume-theme
 
@@ -55,7 +55,8 @@ googlescholar_username: 7qThsfUAAAAJ
 # about_title: About Me
 about_profile_image: ds_image2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ## I received the Ph.D. degree in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), South Korea. I am currently a Postdoctoral Researcher at KAIST Information & Electronics Research Institute. 
+  ## I am currently working in AI/ML system and silicon architect at Google.
+  ## I received the Ph.D. degree in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), South Korea, and worked at KAIST Information & Electronics Research Institute as a Postdoctoral Researcher. 
   ## My research interests are (1) energy-efficient **2D/3D vision system-on-chip** designs, (2) **digital circuit-, architecture-, and SW-level AI accelerator** designs, and (3) **custom silicon chip and demonstration system board** designs.
 
 content:
@@ -269,11 +270,15 @@ content:
   - title: Work Experience
     layout: text
     content: | # this will include new lines to allow paragraphs
+      ## **AI/ML System and Silicon Architect at Google**          
+        
+      *Mar. 2025 - Current*       
+    
       ## **Postdoctoral Researcher at KAIST Information & Electronics Research Institute**          
 
-      **[Recent Project]** Designing high-performance hardware architectures for multi-camera AI-based 3D spatial computing systems
+      **[Working Project]** Designing high-performance hardware architectures for multi-camera AI-based 3D spatial computing systems
         
-      *Sep. 2023 - Current*       
+      *Sep. 2023 - Feb. 2025*       
 
   - title: Education
     layout: text
