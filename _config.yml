@@ -55,7 +55,7 @@ googlescholar_username: 7qThsfUAAAAJ
 # about_title: About Me
 about_profile_image: ds_image2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  ## I am currently working in AI/ML system and silicon architect at Google.
+  ## I am currently working at Google, AI/ML system and silicon architect.
   ## I received the Ph.D. degree in electrical engineering from the Korea Advanced Institute of Science and Technology (KAIST), South Korea, and worked at KAIST Information & Electronics Research Institute as a Postdoctoral Researcher. 
   ## My research interests are (1) energy-efficient **2D/3D vision system-on-chip** designs, (2) **digital circuit-, architecture-, and SW-level AI accelerator** designs, and (3) **custom silicon chip and demonstration system board** designs.
 
@@ -66,6 +66,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: "(Updated: Mar 2025) New Career"
+        description: | # this will include new lines to allow paragraphs   
+          ## **- Starting a new position as AI/ML system and silicon architect at Google, San Diego, US**
+      
         title: "(Updated: Feb 2025) New US Patent Application"
         description: | # this will include new lines to allow paragraphs   
           ## **- STEREOSCOPIC 360-DEGREE IMAGE/VIDEO GENERATION AND 3D DISPLAY SYSTEM**
