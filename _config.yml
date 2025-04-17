@@ -56,7 +56,7 @@ googlescholar_username: 7qThsfUAAAAJ
 about_profile_image: ds_image2.jpg
 about_content: | # this will include new lines to allow paragraphs
   ## I am currently working at Google in San Diego, CA, USA, as an AI/ML Systems and Silicon Architect.
-  ## I received the B.S. degree in Electrical Engineering from Pohang University of Science and Technology (POSTECH), South Korea, in 2018, and the M.S. and Ph.D. degrees in Electrical Engineering from the Korea Advanced Institute of Science and Technology (KAIST), South Korea, in 2020 and 2023, respectively. I was a Postdoctoral Researcher at the KAIST Institute of Information & Electronics from 2023 to 2024.
+  ## I received the B.S. degree in Electrical Engineering from Pohang University of Science and Technology (POSTECH), South Korea, in 2018, and the M.S. and Ph.D. degrees in Electrical Engineering from the Korea Advanced Institute of Science and Technology (KAIST), South Korea, in 2020 and 2023, respectively. I was a Postdoctoral Researcher at the KAIST Institute of Information & Electronics from 2023 to 2025.
   ## My research interests are (1) energy-efficient **AI/ML system-on-chip** design, (2) **digital circuit-, architecture-, and software-level AI/ML accelerator** design, and (3) **custom silicon chip and demonstration system board** development.
 
 content:
@@ -68,7 +68,7 @@ content:
       - layout: top
         title: "(Updated: Mar 2025) New Career"
         description: | # this will include new lines to allow paragraphs   
-          ## **- Starting a new position as AI/ML system and silicon architect at Google, San Diego, US**
+          ## **- Starting a new position as AI/ML system and silicon architect at Google, San Diego, CA, USA**
           
       - layout: top
         title: "(Updated: Feb 2025) New US Patent Application"
