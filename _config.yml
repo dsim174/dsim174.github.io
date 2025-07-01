@@ -129,7 +129,7 @@ content:
         sub_title: IEEE Open Journal of the Solid-State Circuits Society
         caption: June 2025
         description: | # this will include new lines to allow paragraphs                    
-          ## **An Overview of AI Hardware Architectures and Silicon for 3D Spatial Computing Systems**
+          ## **<font color='#FF0000'>(New)</font>An Overview of AI Hardware Architectures and Silicon for 3D Spatial Computing Systems**
           
           *<ins>Dongseok Im</ins>, Gwangtae Park, Junha Ryu, and Hoi-Jun Yoo*
 
