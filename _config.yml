@@ -66,7 +66,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: "(Updated: July 2025) New Paper Accepted at OJ-SSCS"
+        title: "(Updated: June 2025) New Paper Accepted at OJ-SSCS"
         description: | # this will include new lines to allow paragraphs   
           ## **- The new journal titled "An Overview of AI Hardware Architectures and Silicon for 3D Spatial Computing Systems" is accecpted at IEEE Open Journal of the Solid-State Circuits Society (Early Access)**
           
@@ -129,7 +129,7 @@ content:
         sub_title: IEEE Open Journal of the Solid-State Circuits Society
         caption: June 2025
         description: | # this will include new lines to allow paragraphs                    
-          ## **<font color='#FF0000'>(New)</font>An Overview of AI Hardware Architectures and Silicon for 3D Spatial Computing Systems**
+          ## **<font color='#FF0000'>(New)</font> An Overview of AI Hardware Architectures and Silicon for 3D Spatial Computing Systems**
           
           *<ins>Dongseok Im</ins>, Gwangtae Park, Junha Ryu, and Hoi-Jun Yoo*
 
