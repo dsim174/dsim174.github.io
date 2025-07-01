@@ -66,6 +66,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: "(Updated: July 2025) New Paper Accepted at OJ-SSCS"
+        description: | # this will include new lines to allow paragraphs   
+          ## **- The new journal titled "An Overview of AI Hardware Architectures and Silicon for 3D Spatial Computing Systems" is accecpted at IEEE Open Journal of the Solid-State Circuits Society (Early Access)**
+
+          
+      - layout: top
         title: "(Updated: Mar 2025) New Career"
         description: | # this will include new lines to allow paragraphs   
           ## **- Starting a new position as an AI/ML system and silicon architect at Google, San Diego, CA, USA**
@@ -116,6 +122,17 @@ content:
   - title: First Authored Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: OJSSCS 2025
+        sub_title: IEEE Open Journal of the Solid-State Circuits Society
+        caption: June 2025
+        description: | # this will include new lines to allow paragraphs                    
+          ## **An Overview of AI Hardware Architectures and Silicon for 3D Spatial Computing Systems**
+          
+          *<ins>Dongseok Im</ins>, Gwangtae Park, Junha Ryu, and Hoi-Jun Yoo*
+
+          [Paper Link](https://ieeexplore.ieee.org/document/11026096)
+          
       - layout: left
         title: MICRO 2024
         sub_title: IEEE/ACM International Symposium on Microarchitecture
